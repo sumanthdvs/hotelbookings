@@ -1,2 +1,2 @@
-# hotelbookings
-this is the website of hotelbooking
+# flipkart
+this is the website of buying a product
